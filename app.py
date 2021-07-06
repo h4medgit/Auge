@@ -1,6 +1,6 @@
 import telebot
 import requests
-bot = telebot.TeleBot('1814594340:AAFNobck0TZYUL_dzAmPqEyf5kUsNJFTTj4')
+bot = telebot.TeleBot('TOKEN')
 
 def ipfunc(ip):
     try:
