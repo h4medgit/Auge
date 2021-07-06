@@ -15,7 +15,7 @@ in addition, you can achieve some information about what IP you send for the bot
     - ISP
 
 # Requirements
-    ```pyTelegramBotAPI==3.7.7```
-    ```requests==2.25.1```
+    ` pyTelegramBotAPI==3.7.7 `
+    ` requests==2.25.1 `
 ! pay attenstion that you must be using ```PyTelegramBotAPI``` version ```3.7.7``` othervise this Script will getting crash
 
